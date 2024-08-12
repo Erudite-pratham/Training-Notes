@@ -1,50 +1,35 @@
 {
   "main": {
-    "id": "dc5ccc1873ec34b3",
+    "id": "0d580bf21e703575",
     "type": "split",
     "children": [
       {
-        "id": "860e9dd9fa22cedb",
+        "id": "9a9028c95ae76ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "58e5abbb2ec1eb5a",
+            "id": "23b4b537dd8cb86d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpringBoot_Notes/10 - Relational Mapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "640c8caa32af3a8b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10 - Relational Mapping.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ab6913fd618bde3f",
+    "id": "96c266bd669faeff",
     "type": "split",
     "children": [
       {
-        "id": "b05f71d33aaec51b",
+        "id": "b0cd49ea68e2a35a",
         "type": "tabs",
         "children": [
           {
-            "id": "ba479738bc61beff",
+            "id": "cf6936df424d3a6f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,7 +39,7 @@
             }
           },
           {
-            "id": "e22d6af64b4cf4b8",
+            "id": "2dd081e3194724cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +54,7 @@
             }
           },
           {
-            "id": "311b6efa35223cc6",
+            "id": "d2f42444e512ae26",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +62,7 @@
             }
           },
           {
-            "id": "5dd5f2830a3aebb7",
+            "id": "954015c9f130c840",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -91,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "bd93116a0ff2385c",
+    "id": "afaa9e1f5cbcb6a8",
     "type": "split",
     "children": [
       {
-        "id": "c62209a41caae1dc",
+        "id": "26585e2c17e81e39",
         "type": "tabs",
         "children": [
           {
-            "id": "84fabe778ea010be",
+            "id": "4a0746987162a3db",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Relational Mapping.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,19 +100,18 @@
             }
           },
           {
-            "id": "f391cad8cffc65e9",
+            "id": "3013df8912b8cdba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Relational Mapping.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3b1dc38943e0ddfc",
+            "id": "a6186d6df1792f53",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,13 +122,11 @@
             }
           },
           {
-            "id": "394bd382ea705c5d",
+            "id": "57ef74b241d235d5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10 - Relational Mapping.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,20 +139,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ba479738bc61beff",
+  "active": "23b4b537dd8cb86d",
   "lastOpenFiles": [
     "SpringBoot_Notes/10 - Relational Mapping.md",
-    "10 - Relational Mapping.pdf"
+    "10 - Relational Mapping.pdf",
+    "SpringBoot_Notes/09 - Service Discovery and Communication (Part 2).md",
+    "09 - Service Discovery and Communication (Part 2).pdf",
+    "10 - Relational Mapping.md",
+    "01 - Spring Framework.pdf",
+    "02 - Spring Boot and Annotations.pdf",
+    "SpringBoot_Notes/08 - Service Discovery and Communication (Part 1).md",
+    "SpringBoot_Notes/07 - Introduction to Microservices.md",
+    "07 - Introduction to Microservices.pdf",
+    "08 - Service Discovery and Communication (Part 1).pdf",
+    "06 - Implementing JWT Tokens.pdf",
+    "05 - Spring Security.pdf",
+    "SpringBoot_Notes/06 - Implementing JWT Tokens.md",
+    "04 - JPA and Database Interaction and JPQL.pdf",
+    "SpringBoot_Notes/05 - Spring Security.md",
+    "03 - RESTful APIs and API Testing.pdf",
+    "attachments/Pasted image 20240806170614.png",
+    "attachments/Pasted image 20240806170606.png",
+    "attachments/Pasted image 20240806170454.png",
+    "attachments/Pasted image 20240806170422.png",
+    "attachments/Pasted image 20240806170342.png",
+    "SpringBoot_Notes/attachments/image.png",
+    "SpringBoot_Notes/attachments/Pasted image 20240712143229.png",
+    "SpringBoot_Notes/04 - JPA and Database Interaction and JPQL.md",
+    "SpringBoot_Notes/01 - Spring Framework.md",
+    "SpringBoot_Notes/02 - Spring Boot and Annotations.md",
+    "SpringBoot_Notes/attachments/Pasted image 20240712164716.png",
+    "SpringBoot_Notes/03 - RESTful APIs and API Testing.md",
+    "SpringBoot_Notes/attachments/Pasted image 20240802092901.png",
+    "SpringBoot_Notes/Pasted image 20240802092825.png",
+    "Welcome.md"
   ]
 }
